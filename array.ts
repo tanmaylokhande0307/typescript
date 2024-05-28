@@ -1,4 +1,5 @@
 const getFirstElement = (arr: number[]): number => {
+  arr[0].toLowercase();
   return arr[0]
 }
 
