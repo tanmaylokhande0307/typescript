@@ -1,0 +1,7 @@
+graphQL is a query language came out of FACEBOOK
+It uses http protocol under the hood
+
+It is a way that lets backend interact with the client
+
+Benefits over rest APIS
+1) Help to reduce the number of requests from the client to the server
